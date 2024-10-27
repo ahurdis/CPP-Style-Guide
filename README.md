@@ -4,7 +4,9 @@ C++ Style Guide
 #Variable Initialization#
 
 Use = whenever you can.
+
 Use initializer-list syntax {} only for element initializers (of containers and aggregates).
+
 Use function-call syntax () to call a constructor, viewed as an object-factory.
 
 e.g.
